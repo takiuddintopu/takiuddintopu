@@ -1,11 +1,12 @@
 # Hi, I'm Takiuddin Topu 👋
 
-### Environmental Science | GIS & Remote Sensing | Climate & Environmental Data Analysis
+### Environmental Science | GIS & Remote Sensing | Climate & Environmental Data Analysis | Climate Change | Meterology | Hydrology
 
 I am an Environmental Science graduate from **Islamic University, Bangladesh**, with an interest in understanding environmental and climatic changes through **GIS, remote sensing, and data-driven analysis**.
 
 My academic work has focused on climate variability, extreme precipitation, land use/land cover change, and spatial analysis. I am particularly interested in applying geospatial and statistical methods to environmental problems.
 
+---
 
 ## 🌍 Areas of Interest
 
@@ -18,6 +19,7 @@ My academic work has focused on climate variability, extreme precipitation, land
 * Environmental assessment
 * Environmental data analysis
 
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -30,7 +32,6 @@ My academic work has focused on climate variability, extreme precipitation, land
 **Data Analysis**
 
 * R
-* SPSS
 * Python
 * Microsoft Excel
 
@@ -41,6 +42,7 @@ My academic work has focused on climate variability, extreme precipitation, land
 * Environmental assessment
 * Scientific research and reporting
 
+---
 
 ## 📊 Featured Research
 
@@ -59,6 +61,7 @@ The study investigated long-term variability and trends in rainfall, temperature
 * GIS-based spatial analysis
 * Landsat-based LULC analysis
 
+---
 
 ## 📁 Projects
 
@@ -70,6 +73,7 @@ More projects will be added as I continue building my portfolio.
 * 🌱 Environmental assessment
 * 📊 Environmental data analysis
 
+---
 
 ## 📫 Connect With Me
 
